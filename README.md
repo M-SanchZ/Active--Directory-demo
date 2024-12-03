@@ -63,6 +63,25 @@
 
 
 
+## **Using Registry Editor **
+
+![image](https://github.com/user-attachments/assets/d5262f8b-6870-40d9-842e-f6b0e03e658a)
+
+- Could not Connect to Client-1
+  ![image](https://github.com/user-attachments/assets/ecef0909-e021-436d-9b30-858b24eddedc)
+
+- Went back into Client-1 to Enable Remote Registry Properties
+  ![image](https://github.com/user-attachments/assets/d4aec954-4cdc-4eec-a16d-c1149d276e2a)
+  ![image](https://github.com/user-attachments/assets/20ce926d-40d4-4fd7-bc3d-88b6e297c090)
+
+- In DC-1 I was able to connect to `client-1.mydomain.com` 
+![image](https://github.com/user-attachments/assets/949a1d2a-8db1-4245-9f4c-df94677be44e)
+
+
+
+
+
+
 
 
 
