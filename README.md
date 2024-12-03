@@ -46,5 +46,28 @@
 ![image](https://github.com/user-attachments/assets/dc4aa269-9db6-40bd-b2f3-36e7b9fe01b2)
 ![image](https://github.com/user-attachments/assets/45ff4691-c81c-4211-bb09-cbe54bc8d9cb)
 
+## **checking security logs**
+
+![image](https://github.com/user-attachments/assets/a4ec0853-d1ff-4564-b730-9baa3543022f)
+
+
+
+## **As Admin Remote Desktop to End-Users computer**
+
+- Open Remote Desktop Connection 
+![image](https://github.com/user-attachments/assets/3bbcdd26-bab0-4db5-92f5-38beeda2447d)
+![image](https://github.com/user-attachments/assets/e3b13d29-1754-47dd-9ee4-7e919613bd1c)
+![image](https://github.com/user-attachments/assets/8970d76a-be02-4be8-b35a-4a61c9fcd23f)
+![image](https://github.com/user-attachments/assets/9cd7bd3c-4ad8-4afc-a8f7-4f1000fc6d29)
+
+
+
+
+
+
+
+
+
+
 
 
