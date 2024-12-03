@@ -4,7 +4,7 @@
 ----
 
 - You need administrative privileges in the Active Directory in DC-1.
-- Client-1 end user will be `jbade.core`, device name `client-1.mydomain.com` 
+- Client-1 end user will be `bade.core`, device name `client-1.mydomain.com` 
 - You need to be able to access the target computers via Computer Management.
 - The remote management tools must be enabled on the target machines (Remote WMI, RPC, etc.).
 - You should know the target machine's hostname or IP address.
@@ -32,5 +32,19 @@
 
 - If the machine is part of the same domain and you have the appropriate permissions, it should connect successfully.
 - If prompted, enter the credentials for an account that has administrative access to the target machine.
- 
+
+
+
+## **End User `bade.core` was temporary administrator privileges to install software or update existing applications**
+
+- End users generally do not need admin privileges for routine tasks on a computer. However, there are certain scenarios where an end user might request or need admin rights. These cases typically involve the ability to perform tasks that require elevated privileges—such as installing software, modifying system settings, or managing services—that are restricted for security and stability reasons, and just for fun.  
+
+ ![image](https://github.com/user-attachments/assets/3e098a27-8236-47f3-84ad-6baf2a87366a)
+![image](https://github.com/user-attachments/assets/23636623-062f-49db-9663-5da23a49148e)
+
+-End-User `bade.core` wants to run `Windows Command Processor` as ADMIN
+![image](https://github.com/user-attachments/assets/dc4aa269-9db6-40bd-b2f3-36e7b9fe01b2)
+![image](https://github.com/user-attachments/assets/45ff4691-c81c-4211-bb09-cbe54bc8d9cb)
+
+
 
