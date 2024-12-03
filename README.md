@@ -1,4 +1,4 @@
-# **End User cant use windows search and printer isn't connecting to `client-1.mydomain.com` **
+# **End User cant use windows search and printer isn't connecting to `client-1.mydomain.com`**
 
 # **Prerequisites**
 ----
