@@ -35,7 +35,7 @@
 
 
 
-## **End User `bade.core` was temporary administrator privileges to install software or update existing applications**
+## **End User `bade.core` needs temporary administrator privileges to install software or update existing applications**
 
 - End users generally do not need admin privileges for routine tasks on a computer. However, there are certain scenarios where an end user might request or need admin rights. These cases typically involve the ability to perform tasks that require elevated privileges—such as installing software, modifying system settings, or managing services—that are restricted for security and stability reasons, and just for fun.  
 
